@@ -1,6 +1,6 @@
 {
-  "name": "Remix: ຮ້ານອາຫານອາລີຢາ",
-  "description": "ການສັ່ງເມນູແລະຄໍາຮ້ອງສະຫມັກການຈ່າຍເງິນ QR ສໍາລັບຮ້ານອາຫານອາລີຢາ.",
+  "name": "Aleeya Restaurant",
+  "description": "Menu ordering and QR payment application for Aleeya Restaurant.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"

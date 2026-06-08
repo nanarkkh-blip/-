@@ -199,7 +199,8 @@ export const MENU_DATA: MenuItem[] = [
     price: 50000,
     category: 'ກັບແກ້ມ & ທອດ',
     image: 'https://cdn.phototourl.com/member/2026-06-08-a3318905-761f-4457-a649-a50e59b9e7db.webp',
+    description: 'ເອັນໄກ່ທອດກອບໆ ຫອມເຄື່ອງເທດ ເສີບພ້ອມນ້ຳຈິ້ມສູດເດັດ.',
   },
 ];
 
-export const CATEGORIES = ['ທັງໝົດ', 'ເຝີ & ເຂົ້າປຽກ', 'ລາບ & ກ້ອຍ'];
+export const CATEGORIES = ['ທັງໝົດ', 'ເຝີ & ເຂົ້າປຽກ', 'ລາບ & ກ້ອຍ', 'ຕຳສົ້ມ', 'ກັບແກ້ມ & ທອດ'];
