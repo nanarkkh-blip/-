@@ -259,7 +259,7 @@ export default function OrderReceiptModal({ order, onClose, onClearCart }: Order
                 {order.orderType === 'TAKEAWAY' && (
                   <div className="flex justify-between">
                     <span>ສົ່ງຕຶກ (ຄ່າສົ່ງ):</span>
-                    <span className="font-medium">+5,000 ກີບ</span>
+                    <span className="font-medium"> +5,000 ກີບ</span>
                   </div>
                 )}
                 <div className="flex justify-between text-sm font-extrabold text-slate-800 pt-1.5 border-t border-slate-100">

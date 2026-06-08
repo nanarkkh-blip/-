@@ -40,9 +40,9 @@ export default function CartSummary({
     return cart.reduce((sum, item) => sum + item.menuItem.price * item.quantity, 0);
   };
 
-  // 5,000 LAK charge apply if delivered
+  // 5,000 LAK charge apply if takeaway
   const getPackagingFee = () => {
-    return orderType === 'delivered' ? 5000 : 0;
+    return orderType === 'TAKEAWAY' ? 5000 : 0;
   };
 
   const getTotal = () => {
