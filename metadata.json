@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ຮ້ານອາຫານອາລີຢາ",
+  "description": "ການສັ່ງເມນູແລະຄໍາຮ້ອງສະຫມັກການຈ່າຍເງິນ QR ສໍາລັບຮ້ານອາຫານອາລີຢາ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
